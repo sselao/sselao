@@ -10,9 +10,9 @@ At [Discotech](https://www.crunchbase.com/organization/discotech), I am responsi
 * Working with the leadership and core team, product improvements including UI/UX, Analytics, Content Optimization
 * Google Search Engine Optimization to increase web traffic and improve our conversions
 
-My journey as a freelance web developer began about 10 years ago when PHP was one of the most popular web languages. I currently work with Python, JavaScript (TypeScript), and React.
+I currently use Python, JavaScript (TypeScript), and React.
 
-I'm a curious person and avid learner by nature: I'm obsessed with learning new languages and frameworks.
+My journey as a freelance web developer began about 10 years ago when PHP was one of the most popular web languages. I'm a curious person and avid learner by nature: I'm obsessed with learning new languages and frameworks.
 
 You can find me on [Twitter](https://twitter.com/StephenSelao) and [LinkedIn](https://www.linkedin.com/in/sselao/).
 
@@ -31,7 +31,7 @@ You can find me on [Twitter](https://twitter.com/StephenSelao) and [LinkedIn](ht
 * Python, Flask
 * MySQL, MongoDB
 * CSS, SASS, Bootstrap
-* Git
+* Git, REST API, Netlify, Vercel, Apache
 * WordPress Development: Custom Themes & Plugins
 
 
