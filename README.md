@@ -1,8 +1,10 @@
 ## Hello there! 👋
 
-My name is Stephen Selao and I'm a software developer living in the beautiful city of Montreal, Canada.
+**My name is Stephen Selao and I'm a software developer living in the beautiful city of Montreal, Canada.**
 
-First and foremost, I love writing code! I am currently working as a Software Developer at Discotech, a startup based in Los Angeles. My journey as a freelance web developer began about 10 years ago when PHP was one of the most popular web languages.
+First and foremost, I love writing code!
+
+I am currently working as a Software Developer at Discotech, a startup based in Los Angeles. My journey as a freelance web developer began about 10 years ago when PHP was one of the most popular web languages.
 
 I currently work with Python, JavaScript (TypeScript), and React. I'm a curious person and avid learner by nature: I'm obsessed with learning new languages and frameworks.
 
@@ -45,7 +47,9 @@ Over the years, I've built different side projects to learn new languages and fr
 
 ## 📫 How to reach me
 
-You can email me at [stephenselaodev@gmail.com](mailto:stephenselaodev@gmail.com)
+You can contact me via email: [stephenselaodev@gmail.com](mailto:stephenselaodev@gmail.com).
+
+You can also reach me via [Twitter](https://twitter.com/StephenSelao) or [LinkedIn](https://www.linkedin.com/in/sselao/).
 
 
 
