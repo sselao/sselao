@@ -1,4 +1,4 @@
-## Hello there! 👋
+# Hello there! 👋
 
 **My name is Stephen Selao and I'm a software developer living in the beautiful city of Montreal, Canada.**
 
