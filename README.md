@@ -26,7 +26,8 @@ You can find me on [Twitter](https://twitter.com/StephenSelao) and [LinkedIn](ht
 
 ## 🌱 I’m currently learning
 
-**Go (Golang)** - a concise and readable language that I've grew to like. I am also learning other modern JavaScript frameworks: **Angular and Vue**.
+* **Go (Golang)** - a concise and readable language that I've grew to like
+* **Angular and Vue** - other JS frameworks I am learning
 
 
 
