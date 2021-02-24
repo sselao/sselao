@@ -1,14 +1,14 @@
 # Hello there! 👋
 
-**I'm Stephen Selao, Software Developer at Discotech, living in the beautiful city of Montreal, Canada.**
+**I'm Stephen Selao, Software Developer at [Discotech](https://www.crunchbase.com/organization/discotech), living in the beautiful city of Montreal, Canada.**
 
 First and foremost, I love writing code!
 
-I currently work at [Discotech](https://www.crunchbase.com/organization/discotech), a startup based in Los Angeles. I am responsible for:
+At [Discotech](https://www.crunchbase.com/organization/discotech), I am responsible for:
 
 * Converting [Discotech's current web app](https://app.discotech.me/) to a modern JS framework
-* Improving the UI
-* Optimizing for Google search results
+* Working with the leadership and core team, product improvements including UI/UX, Analytics, Content Optimization
+* Google Search Engine Optimization to increase web traffic and improve our conversions
 
 My journey as a freelance web developer began about 10 years ago when PHP was one of the most popular web languages. I currently work with Python, JavaScript (TypeScript), and React.
 
@@ -21,7 +21,6 @@ You can find me on [Twitter](https://twitter.com/StephenSelao) and [LinkedIn](ht
 
 * I am perfectly fluent in French! Montreal is one of the few bilingual cities in Canada.
 * I remember the good old days of having to support IE6, IE7...
-
 
 
 ## 🔧 Technologies & Tools
@@ -50,13 +49,17 @@ Over the years, I've built different side projects to learn new languages and fr
 
 ### [Sushi Clicker (React, TypeScript)](https://github.com/sselao/sushi-clicker) *in development*
 
+Sushi Clicker is a clicker game (incremental game) built entirely with React.
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sselao&repo=sushi-clicker)](https://github.com/sselao/sushi-clicker)
 
 
 ### [Codenames (TypeScript, Node/Express)](https://github.com/sselao/codenames-clone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sselao&repo=codenames-clone)](https://github.com/sselao/codenames-clone)
+Multi-Room Interactive Board Game:
+Codenames is a popular board game I recreated. Multiple game rooms can be played simultaneously and players can connect to a game room to play with friends. The backend API server is responsible for handling the multiple game states.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sselao&repo=codenames-clone)](https://github.com/sselao/codenames-clone)
 
 
 ## 📫 How to reach me
