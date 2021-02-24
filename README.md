@@ -1,14 +1,26 @@
 # Hello there! 👋
 
-**My name is Stephen Selao and I'm a software developer living in the beautiful city of Montreal, Canada.**
+**I'm Stephen Selao, Software Developer at Discotech, living in the beautiful city of Montreal, Canada.**
 
 First and foremost, I love writing code!
 
-I am currently working as a Software Developer at Discotech, a startup based in Los Angeles. My journey as a freelance web developer began about 10 years ago when PHP was one of the most popular web languages.
+I currently work at [Discotech](https://www.crunchbase.com/organization/discotech), a startup based in Los Angeles. I am responsible for:
 
-I currently work with Python, JavaScript (TypeScript), and React. I'm a curious person and avid learner by nature: I'm obsessed with learning new languages and frameworks.
+* Converting [Discotech's current web app](https://app.discotech.me/) to a modern JS framework
+* Improving the UI
+* Optimizing for Google search results
+
+My journey as a freelance web developer began about 10 years ago when PHP was one of the most popular web languages. I currently work with Python, JavaScript (TypeScript), and React.
+
+I'm a curious person and avid learner by nature: I'm obsessed with learning new languages and frameworks.
 
 You can find me on [Twitter](https://twitter.com/StephenSelao) and [LinkedIn](https://www.linkedin.com/in/sselao/).
+
+
+## ⚡ Fun facts
+
+* I am perfectly fluent in French! Montreal is one of the few bilingual cities in Canada.
+* I remember the good old days of having to support IE6, IE7...
 
 
 
@@ -20,6 +32,7 @@ You can find me on [Twitter](https://twitter.com/StephenSelao) and [LinkedIn](ht
 * Python, Flask
 * MySQL, MongoDB
 * CSS, SASS, Bootstrap
+* Git
 * WordPress Development: Custom Themes & Plugins
 
 
@@ -33,7 +46,7 @@ You can find me on [Twitter](https://twitter.com/StephenSelao) and [LinkedIn](ht
 
 ## 🔭 Projects I'm working on
 
-Over the years, I've built different side projects to learn new languages and frameworks. On my spare time, I often gravitate towards building games.
+Over the years, I've built different side projects to learn new languages and frameworks. In my spare time, I often gravitate towards building games.
 
 ### [Sushi Clicker (React, TypeScript)](https://github.com/sselao/sushi-clicker) *in development*
 
@@ -53,8 +66,3 @@ You can contact me via email: [stephenselaodev@gmail.com](mailto:stephenselaodev
 You can also reach me via [Twitter](https://twitter.com/StephenSelao) or [LinkedIn](https://www.linkedin.com/in/sselao/).
 
 
-
-## ⚡ Fun facts
-
-* I am perfectly fluent in French! Montreal is one of the few bilingual cities in Canada.
-* I remember the good old days of having to support IE6, IE7...
