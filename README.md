@@ -1,14 +1,8 @@
 # Hello there! 👋
 
-**I'm Stephen Selao, Software Developer at [Discotech](https://www.crunchbase.com/organization/discotech), living in the beautiful city of Montreal, Canada.**
+**I'm Stephen Selao, Software Developer living in the beautiful city of Montreal, Canada.**
 
 First and foremost, I love writing code!
-
-At [Discotech](https://www.crunchbase.com/organization/discotech), I am responsible for:
-
-* Converting [Discotech's current web app](https://app.discotech.me/) to a modern JS framework
-* Working with the leadership and core team, product improvements including UI/UX, Analytics, Content Optimization
-* Google Search Engine Optimization to increase web traffic and improve our conversions
 
 I currently use Python, JavaScript (TypeScript), and React.
 
