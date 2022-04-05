@@ -4,7 +4,7 @@
 
 First and foremost, I love writing code!
 
-I currently use Python, JavaScript (TypeScript), and React.
+I currently work with JavaScript/TypeScript, and React.
 
 My journey as a freelance web developer began about 10 years ago when PHP was one of the most popular web languages. I'm a curious person and avid learner by nature: I'm obsessed with learning new languages and frameworks.
 
